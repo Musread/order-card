@@ -1,0 +1,9 @@
+{
+  "name": "order-summary-component",
+  "version": "1.0.0",
+  "description": "A simple summary component",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Musread",
+  "license": "ISC"
+}
