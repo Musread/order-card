@@ -17,6 +17,3 @@
 
 # Avoid the git repository to get overwhelmed by NPM modules 😂
 node_modules/
-
-README-template.md
-README.md
