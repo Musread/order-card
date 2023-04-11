@@ -1,0 +1,23 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --primary-color-light: hsl(225, 100%, 94%);
+  --primary-color-dark: hsl(245, 75%, 52%);
+  --primary-color-dark-1: hsla(245, 75%, 52%, 0.5);
+
+  //font-colors
+  --color-dark-blue: hsl(223, 47%, 23%);
+  --color-grey-blue: hsl(224, 23%, 55%);
+  --color-light: hsl(225, 100%, 98%);
+}
+
+html {
+  font-family: "Red Hat Display";
+  font-size: 62.5%;
+}
